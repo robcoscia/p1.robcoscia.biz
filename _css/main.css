@@ -1,0 +1,42 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+
+body { 
+	font: 100%  georgia, sans-serif;
+	line-height: 1.88889;
+	color:  black; 
+	margin: 0; 
+	padding: 25px 175px 0 110px;  
+	position: relative;
+	}
+
+h1 { 
+	background: transparent url(/p1.robcoscia.biz/_images/DSC_0246_med.JPG) no-repeat top left;
+	margin-top: 10px;
+	display: block;
+	width: 800px;
+	height: 177px;
+	float: top;
+
+	text-indent: 40%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+
+p { 
+	margin-top: 0; 
+	text-align: justify;
+	}
+
+.bio {
+	clear: right; 
+	padding: 0px 10px 0 10px;
+}
+
+.texteditor
+{
+	padding: 0px 10px 0 10px;
+    font: 25% georgia, sans-serif;
+}
